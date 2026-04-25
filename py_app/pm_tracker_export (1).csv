@@ -1,0 +1,7 @@
+Asset,Risk Level,PM Interval (Months),Work Order #,Last PM,Next PM Due,Days Until Due,Status
+Stryker Bed – ICU 12,Low,12,WO-68760,2025-11-25,2026-11-20,209,OK
+Hillrom Bed – L&D 4,Medium,12,WO-43733,2025-08-31,2026-08-26,123,OK
+Medfusion 4000 Pump – OR 3,Medium,6,WO-27210,2025-10-14,2026-04-12,-13,OVERDUE
+Philips MX800 Monitor – ED 7,High,6,WO-35937,2026-02-23,2026-08-22,119,OK
+Sysmex XN Analyzer – Lab,High,12,WO-24532,2026-01-17,2027-01-12,262,OK
+Roche Cobas 6000 – Lab,High,12,WO-14793,2026-02-06,2027-02-01,282,OK
