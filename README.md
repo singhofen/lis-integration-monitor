@@ -1,3 +1,5 @@
+https://lis-integration-monitor-h4jt9uq5v6cxzdtzglnmkh.streamlit.app/
+
 # LIS & Medical Equipment Integration Monitor
 A Streamlit-based CE‑IT operational dashboard that simulates real-world
 Clinical Engineering and LIS integration workflows. This project demonstrates
